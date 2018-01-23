@@ -1,2 +1,2 @@
 # doorbell-arduino
-arduino doorbell - switch and PIR sensor
+doorbell personal project for my home using Arduino
